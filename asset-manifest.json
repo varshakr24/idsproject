@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/idsproject/static/css/main.d1b05096.chunk.css",
+    "main.js": "/idsproject/static/js/main.46ed43f7.chunk.js",
+    "main.js.map": "/idsproject/static/js/main.46ed43f7.chunk.js.map",
+    "runtime-main.js": "/idsproject/static/js/runtime-main.7243b5ec.js",
+    "runtime-main.js.map": "/idsproject/static/js/runtime-main.7243b5ec.js.map",
+    "static/js/2.250dc4af.chunk.js": "/idsproject/static/js/2.250dc4af.chunk.js",
+    "static/js/2.250dc4af.chunk.js.map": "/idsproject/static/js/2.250dc4af.chunk.js.map",
+    "index.html": "/idsproject/index.html",
+    "precache-manifest.01da2b98f64f4df7b7497cfdbb252031.js": "/idsproject/precache-manifest.01da2b98f64f4df7b7497cfdbb252031.js",
+    "service-worker.js": "/idsproject/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/idsproject/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.250dc4af.chunk.js.LICENSE": "/idsproject/static/js/2.250dc4af.chunk.js.LICENSE",
+    "static/media/logo.svg": "/idsproject/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7243b5ec.js",
+    "static/js/2.250dc4af.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.46ed43f7.chunk.js"
+  ]
+}
