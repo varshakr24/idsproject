@@ -4,15 +4,23 @@
   http://jedwatson.github.io/classnames
 */
 
+/*! tableau-2.1.2 */
+
+/*! tableau-2.2.1 */
+
+/*! BEGIN MscorlibSlim */
+
+/*! BEGIN CoreSlim */
+
+/*! BEGIN ApiShared */
+
+/*! API */
+
 /*
 object-assign
 (c) Sindre Sorhus
 @license MIT
 */
-
-/*!
- * Programatically add the following
- */
 
 /** @license React v16.12.0
  * react.production.min.js
@@ -40,18 +48,6 @@ object-assign
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
-/*! tableau-2.1.2 */
-
-/*! tableau-2.2.1 */
-
-/*! BEGIN MscorlibSlim */
-
-/*! BEGIN CoreSlim */
-
-/*! BEGIN ApiShared */
-
-/*! API */
 
 /**
  * CSS Vendor prefix detection and property feature testing.

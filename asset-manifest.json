@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/idsproject/static/css/main.d1b05096.chunk.css",
-    "main.js": "/idsproject/static/js/main.88ec0220.chunk.js",
-    "main.js.map": "/idsproject/static/js/main.88ec0220.chunk.js.map",
+    "main.css": "/idsproject/static/css/main.5df7d988.chunk.css",
+    "main.js": "/idsproject/static/js/main.dde4859e.chunk.js",
+    "main.js.map": "/idsproject/static/js/main.dde4859e.chunk.js.map",
     "runtime-main.js": "/idsproject/static/js/runtime-main.7243b5ec.js",
     "runtime-main.js.map": "/idsproject/static/js/runtime-main.7243b5ec.js.map",
-    "static/js/2.c28cd685.chunk.js": "/idsproject/static/js/2.c28cd685.chunk.js",
-    "static/js/2.c28cd685.chunk.js.map": "/idsproject/static/js/2.c28cd685.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/idsproject/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.2585a819.chunk.js": "/idsproject/static/js/2.2585a819.chunk.js",
+    "static/js/2.2585a819.chunk.js.map": "/idsproject/static/js/2.2585a819.chunk.js.map",
     "index.html": "/idsproject/index.html",
-    "precache-manifest.c066ba4e81e5638ea7db20fc1b597bda.js": "/idsproject/precache-manifest.c066ba4e81e5638ea7db20fc1b597bda.js",
+    "precache-manifest.7f9be71567230578f128ff76af10d86f.js": "/idsproject/precache-manifest.7f9be71567230578f128ff76af10d86f.js",
     "service-worker.js": "/idsproject/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/idsproject/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c28cd685.chunk.js.LICENSE": "/idsproject/static/js/2.c28cd685.chunk.js.LICENSE",
-    "static/media/logo.svg": "/idsproject/static/media/logo.5d5d9eef.svg"
+    "static/css/2.17e5ed98.chunk.css.map": "/idsproject/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5df7d988.chunk.css.map": "/idsproject/static/css/main.5df7d988.chunk.css.map",
+    "static/js/2.2585a819.chunk.js.LICENSE": "/idsproject/static/js/2.2585a819.chunk.js.LICENSE",
+    "static/media/Collaborative_filtering.gif": "/idsproject/static/media/Collaborative_filtering.722d7195.gif",
+    "static/media/Correlation.PNG": "/idsproject/static/media/Correlation.905122b7.PNG",
+    "static/media/distribution.png": "/idsproject/static/media/distribution.76d48de6.png",
+    "static/media/logo.svg": "/idsproject/static/media/logo.5d5d9eef.svg",
+    "static/media/matrix.png": "/idsproject/static/media/matrix.10a60666.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7243b5ec.js",
-    "static/js/2.c28cd685.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.88ec0220.chunk.js"
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.2585a819.chunk.js",
+    "static/css/main.5df7d988.chunk.css",
+    "static/js/main.dde4859e.chunk.js"
   ]
 }
