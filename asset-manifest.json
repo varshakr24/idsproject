@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/idsproject/static/css/main.5df7d988.chunk.css",
-    "main.js": "/idsproject/static/js/main.4dfeb469.chunk.js",
-    "main.js.map": "/idsproject/static/js/main.4dfeb469.chunk.js.map",
+    "main.js": "/idsproject/static/js/main.f076ad12.chunk.js",
+    "main.js.map": "/idsproject/static/js/main.f076ad12.chunk.js.map",
     "runtime-main.js": "/idsproject/static/js/runtime-main.7243b5ec.js",
     "runtime-main.js.map": "/idsproject/static/js/runtime-main.7243b5ec.js.map",
     "static/css/2.17e5ed98.chunk.css": "/idsproject/static/css/2.17e5ed98.chunk.css",
     "static/js/2.4a602ec6.chunk.js": "/idsproject/static/js/2.4a602ec6.chunk.js",
     "static/js/2.4a602ec6.chunk.js.map": "/idsproject/static/js/2.4a602ec6.chunk.js.map",
     "index.html": "/idsproject/index.html",
-    "precache-manifest.22c88956c4276ec60a9a28868b139231.js": "/idsproject/precache-manifest.22c88956c4276ec60a9a28868b139231.js",
+    "precache-manifest.5b00d1e8bcaf920530a27001cb68cfc0.js": "/idsproject/precache-manifest.5b00d1e8bcaf920530a27001cb68cfc0.js",
     "service-worker.js": "/idsproject/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/idsproject/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.5df7d988.chunk.css.map": "/idsproject/static/css/main.5df7d988.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.4a602ec6.chunk.js",
     "static/css/main.5df7d988.chunk.css",
-    "static/js/main.4dfeb469.chunk.js"
+    "static/js/main.f076ad12.chunk.js"
   ]
 }
