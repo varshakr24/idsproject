@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e25faf21f4459e9e572523d19fc09d9",
+    "revision": "a337e0a050dd56365cdec596bf402a9e",
     "url": "/idsproject/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/idsproject/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "4735aa41f595494a9b64",
+    "revision": "98fe979b0d101fa56a33",
     "url": "/idsproject/static/css/main.5df7d988.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/idsproject/static/js/2.4a602ec6.chunk.js.LICENSE"
   },
   {
-    "revision": "4735aa41f595494a9b64",
-    "url": "/idsproject/static/js/main.25e25a6b.chunk.js"
+    "revision": "98fe979b0d101fa56a33",
+    "url": "/idsproject/static/js/main.64e93441.chunk.js"
   },
   {
     "revision": "70dcc617ed94057b6080",
